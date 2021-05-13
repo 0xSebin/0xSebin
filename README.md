@@ -4,10 +4,8 @@
 Here are some ideas to get you started:
 -->
 # **Hi I'm Sebin 👋**
-<b> About </b>
+   <b> About </b>
    <br> 🤓 CTF PLAYER </br>
-
-
    <br> Studying: Computer Science </br>
    <br> Skills: Kali linux | Penetration Testing | Web Application Pen Testing | OWASP | Shell Scripting </br>
 
