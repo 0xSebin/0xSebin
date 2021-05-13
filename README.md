@@ -6,7 +6,7 @@ Here are some ideas to get you started:
 # **Hi I'm Sebin 👋**
 
 <br> 🤓 CTF PLAYER </br>
-<br> 🇮🇳 Born in Kerala, India </br>
+<br> 🇮🇳 Indian </br>
 ## About
    <br> Studying: Computer Science </br>
    <br> Skills: Kali linux | Penetration Testing | Web Application Pen Testing | OWASP | Shell Scripting </br>
