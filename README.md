@@ -5,13 +5,13 @@ Here are some ideas to get you started:
 -->
 # **Hi I'm Sebin 👋**
 
-<br> 🤓 CTF PLAYER </br>
-<br> 🇮🇳 Indian </br>
-## About
+   <br> 🤓 CTF PLAYER </br>
+
+
    <br> Studying: Computer Science </br>
    <br> Skills: Kali linux | Penetration Testing | Web Application Pen Testing | OWASP | Shell Scripting </br>
 
-### Find me elsewhere 🌍
+## Find me elsewhere 🌍
 
 
 
