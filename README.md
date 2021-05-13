@@ -4,7 +4,7 @@
 Here are some ideas to get you started:
 -->
 # **Hi I'm Sebin 👋**
-
+** About** 
    <br> 🤓 CTF PLAYER </br>
 
 
