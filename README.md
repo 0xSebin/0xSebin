@@ -27,7 +27,7 @@ Here are some ideas to get you started:
 - [LinkedIn](https://www.linkedin.com/in/sebin-thomas/)
 
 
-    ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=0xSebin&show_icons=true&theme=radical)
+    ![Sebin's GitHub stats](https://github-readme-stats.vercel.app/api?username=0xSebin&show_icons=true&theme=radical)
 
 
      ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=0xSebin&title_color=005932&icon_color=354c33&text_color=80a26f&bg_color=bcecb9&layout=compact&hide=css)
