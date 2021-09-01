@@ -25,11 +25,10 @@ Here are some ideas to get you started:
 
 
 
-- [Hack The Box](https://app.hackthebox.eu/profile/140940)
 - [Twitter](https://twitter.com/sebinthomas99)
-- [Try Hack Me](https://tryhackme.com/p/0xSebin)
-- [LinkedIn](https://www.linkedin.com/in/sebin-thomas/)
-   
+- [LinkedIn](https://www.linkedin.com/in/sebin-thomas/)   
+
+
 ![Sebin's GitHub stats](https://github-readme-stats.vercel.app/api?username=0xSebin&show_icons=true&theme=radical)
 
 
