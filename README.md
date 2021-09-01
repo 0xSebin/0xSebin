@@ -4,7 +4,10 @@
 Here are some ideas to get you started:
 -->
 # **Hi I'm Sebin 👋**
-   
+
+<a href="https://www.tryhackme.com/p/0xSebin"><img width="85px" src="https://assets.tryhackme.com/img/logo/tryhackme_logo_full.svg"></a> &emsp; <a href="https://www.hackthebox.eu/home/users/profile/140940"><img width="185x" src="https://app.hackthebox.eu/images/logos/logo-htb.svg"></a>
+
+
    Studying: 
              
            -Computer Science   
@@ -25,17 +28,13 @@ Here are some ideas to get you started:
 - [Twitter](https://twitter.com/sebinthomas99)
 - [Try Hack Me](https://tryhackme.com/p/0xSebin)
 - [LinkedIn](https://www.linkedin.com/in/sebin-thomas/)
+   
+![Sebin's GitHub stats](https://github-readme-stats.vercel.app/api?username=0xSebin&show_icons=true&theme=radical)
 
 
-<a href="https://www.tryhackme.com/p/0xSebin"><img width="85px" src="https://assets.tryhackme.com/img/logo/tryhackme_logo_full.svg"></a> &emsp; <a href="https://www.hackthebox.eu/home/users/profile/140940"><img width="185x" src="https://app.hackthebox.eu/images/logos/logo-htb.svg"></a>
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=0xSebin&title_color=005932&icon_color=354c33&text_color=80a26f&bg_color=bcecb9&layout=compact&hide=css)
 
-
-   ![Sebin's GitHub stats](https://github-readme-stats.vercel.app/api?username=0xSebin&show_icons=true&theme=radical)
-
-
-   ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=0xSebin&title_color=005932&icon_color=354c33&text_color=80a26f&bg_color=bcecb9&layout=compact&hide=css)
-
-   ![visitors](https://visitor-badge.laobi.icu/badge?page_id=0xSebin)
+![visitors](https://visitor-badge.laobi.icu/badge?page_id=0xSebin)
 
 
 
