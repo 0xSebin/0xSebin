@@ -5,6 +5,9 @@ Here are some ideas to get you started:
 -->
 # **Hi I'm Sebin 👋**
 
+
+__I'm a Pentester and a cybersecurity enthusiast !!__
+
 <a href="https://www.tryhackme.com/p/0xSebin"><img width="85px" src="https://assets.tryhackme.com/img/logo/tryhackme_logo_full.svg"></a> &emsp; <a href="https://www.hackthebox.eu/home/users/profile/140940"><img width="185x" src="https://app.hackthebox.eu/images/logos/logo-htb.svg"></a>
 
 
