@@ -28,8 +28,8 @@ __I'm a Pentester and a cybersecurity enthusiast !!__
 
 
 
-- [Twitter](https://twitter.com/sebinthomas99)
-- [LinkedIn](https://www.linkedin.com/in/sebin-thomas/)   
+<!-- - [Twitter](https://twitter.com/sebinthomas99)
+- [LinkedIn](https://www.linkedin.com/in/sebin-thomas/)  --> 
 
 
 ![Sebin's GitHub stats](https://github-readme-stats.vercel.app/api?username=0xSebin&show_icons=true&theme=radical)
