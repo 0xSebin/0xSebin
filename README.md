@@ -2,25 +2,11 @@
   Welcome to Sebin Thomas's profile!
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
 </h3>
-
 <!-- Typing SVG by 0xSebin - https://github.com/0xSebin/readme-typing-svg -->
 <p align="center">
   <a href="https://github.com/0xSebin/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com/?lines=Pentester;Self-taught%20Techie;Always%20learning%20new%20things&font=Fira%20Code&center=true&width=440&height=45&color=f75c7e&vCenter=true&size=22"></a>
 </p>
-
-<!-- Social icons section -->
-<!--<p align="center">
-  <a href="https://twitter.com/0xSebin"><img width="32px" alt="Twitter" title="Twitter" src="https://i.imgur.com/OXZM1L6.png"/></a>
-  &#8287;&#8287;&#8287;&#8287;&#8287;
-</p> -->
-
 <br/>
-
-<!-- Social badges section -->
-<!-- Badges with custom icons - https://github.com/0xSebin/custom-icon-badges -->
-<!-- YouTube stats - https://github.com/0xSebin/github-readme-youtube-stats -->
-<!-- View counter - https://github.com/0xSebin/Simple-View-Counter -->
-<!-- Star counter - https://github.com/idealclover/GitHub-Star-Counter -->
 <p align="center">
   <a href="https://github.com/0xSebin?tab=repositories&sort=stargazers">
     <img alt="total stars" title="Total stars on GitHub" src="https://custom-icon-badges.herokuapp.com/badge/dynamic/json?logo=star&color=55960c&labelColor=488207&label=Stars&style=for-the-badge&query=%24.stars&url=https://api.github-star-counter.workers.dev/user/0xSebin"/></a>
@@ -30,15 +16,12 @@
 
 ## 🔥 Streak stats
 
-<!-- GitHub Readme Streak Stats - https://github.com/0xSebin/github-readme-streak-stats -->
+
 <p align="center">
   <a href="https://github.com/0xSebin/github-readme-streak-stats">
     <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="0xSebin's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=0xSebin&theme=monokai-metallian&hide_border=true"/>
-  </a>
-  <p align="center">🔥 Get streak stats for your profile at <a href="https://git.io/streak-stats">git.io/streak-stats</a></p>
-</p>
+  
 
-<!-- Some badges are from https://github.com/Ileriayo/markdown-badges -->
 
 ## 🛠️ My favorite tools
 
@@ -99,8 +82,4 @@
 </details>
 
 
-<!-- https://github.com/jamesgeorge007/github-activity-readme -->
-
-
-<!-- https://github.com/ashutosh00710/github-readme-activity-graph -->
 <a href="https://github.com/ashutosh00710/github-readme-activity-graph"><img alt="0xSebin's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=0xSebin&bg_color=1F222E&color=F8D866&line=F85D7F&point=FFFFFF&hide_border=true" /></a>
