@@ -1,5 +1,5 @@
 <h3 align="center">
-  Welcome to Sebin Thomas's profile!
+  Welcome to Sebin's profile!
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
 </h3>
 <!-- Typing SVG by 0xSebin - https://github.com/0xSebin/readme-typing-svg -->
